@@ -88,8 +88,6 @@ npm run dev
 
 - The frontend can call `GET /data` at any time to read the most recent dataset produced by either manual or scheduled scrapes.
 
-> For production, consider moving to a dedicated scheduler (e.g., a cloud cron or separate worker) instead of in‑process APScheduler.
-
 ---
 
 ### 5. Deployment (Vercel / Netlify )
