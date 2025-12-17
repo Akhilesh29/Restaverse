@@ -11,7 +11,7 @@ The example target site is **Hacker News** (public front page headlines). You ca
 
 ---
 
-### 1. Backend –
+### 1. Backend – Setup
 
 #### 1.1. Create and activate virtualenv
 
@@ -22,7 +22,7 @@ py -m venv .venv
 pip install -r backend\requirements.txt
 ```
 
-#### 1. Run the backend
+#### 1.2 Run the backend
 
 ```bash
 .venv\Scripts\activate
