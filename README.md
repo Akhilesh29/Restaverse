@@ -7,7 +7,6 @@ This project is a small full‑stack app that demonstrates:
 - **Web scraping** with `requests` + `BeautifulSoup`.
 - **Optional cron job** (via APScheduler) to refresh data hourly.
 
-The example target site is **Hacker News** (public front page headlines). You can change the scraper to any other public site as needed.
 
 ---
 
